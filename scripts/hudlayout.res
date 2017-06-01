@@ -387,7 +387,7 @@
 		"xpos_minmode"				"c-50"
 		"ypos"						"c100"
 		"ypos_minmode"				"c100"
-		"wide"						"84"
+		"wide"						"100"
 		"tall"						"50"
 	}
 	
